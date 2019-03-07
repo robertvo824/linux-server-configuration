@@ -11,8 +11,8 @@ This is the final project for Udacity's Full Stack Web Developer Nanodegree. A b
 
 - **Public IP:** 18.215.183.227
 - **Port:** 2200
-
-- http://18.215.183.227/
+- Server Access `ssh -i ~/.ssh/udacity_key.rsa -p 2200 grader@18.215.183.227`
+- App URL http://18.215.183.227/
 
 ## Getting Started
 
